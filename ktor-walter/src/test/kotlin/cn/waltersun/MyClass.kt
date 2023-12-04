@@ -1,4 +1,4 @@
-package cn.waltersun.plugins
+package cn.waltersun
 
 /**
  * @author  道禹 Walter
